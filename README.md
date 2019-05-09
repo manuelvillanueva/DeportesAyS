@@ -1,2 +1,0 @@
-# DeportesAyS
-Deportes
